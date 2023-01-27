@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.example.android_audio'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.example.android_audio"
